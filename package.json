@@ -1,0 +1,22 @@
+{
+  "name": "excel2csv",
+  "version": "1.0.0",
+  "description": "excel2csv =========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scpike/excel2csv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scpike/excel2csv/issues"
+  },
+  "homepage": "https://github.com/scpike/excel2csv#readme",
+  "dependencies": {
+    "async": "^3.0.1"
+  }
+}
